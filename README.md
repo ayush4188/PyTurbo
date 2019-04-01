@@ -18,5 +18,11 @@ FEATURES:
 
 Official EXE File Can Be Found Under "Releases"
 
+PLEASE READ BELOW!
+
+1. This Program Does Not Save Any Form Data Entered or Communicate it To Custom Servers. All Information is Temporary Between Your PC and Instagram
+
+2. This Program Is Labeled As a "Risk" / "Virus" Because it is an .EXE, Disregard These Messages
+
 
 THIS IS NOW THE FINAL UPDATE UNTIL BUGS/ERRORS ARE FOUND
