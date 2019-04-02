@@ -1,7 +1,7 @@
 # PyTurbo
 PyTurbo is an Instagram Turbo Made In Python
 
-Also Known As a @ "Sniper"
+Also Known As a @ Claimer
 
 FEATURES:
 
